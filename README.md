@@ -1,1 +1,1 @@
-# TECH-STORE-
+# TechStore
